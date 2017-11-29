@@ -11,7 +11,7 @@ From the Wiki:
 
 * **Schema** <https://github.com/jsonresume/resume-schema>
 * **Client** <https://github.com/jsonresume/resume-cli>
-* **Server** <https://github.com/jsonresume/registry-server
+* **Server** <https://github.com/jsonresume/registry-server>
 
 
 
